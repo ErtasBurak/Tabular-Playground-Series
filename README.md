@@ -1,11 +1,13 @@
 # Machine Learning Projects
- ## In these projects I used VSC, Jupyter and Google Colaboratory IDEs.
+ ## In these project I used VSC.
 ----
-![alt text](png/VSC.png) ![alt text](png/jupyter.png) ![alt text](png/CO.png)
+![alt text](png/VSC.png)
 
 -----
 
 ### I prefer [VSC](https://code.visualstudio.com), because it supports more programming languages and has more extensions.
+
+### For the train/test files look up for [here](https://www.kaggle.com/c/tabular-playground-series-sep-2021/data).
 
 ----
 
